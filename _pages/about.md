@@ -6,11 +6,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: firat_home.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Sivas Cumhuriyet University</p>
-    <p>Department of Computer Engineering</p>
+    <p>Sivas Cumhuriyet University,</p>
+    <p>Department of Computer Engineering,</p>
     <p>Sivas, Turkey</p>
 
 news: true  # includes a list of news items
