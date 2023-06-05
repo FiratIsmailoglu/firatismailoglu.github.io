@@ -6,18 +6,23 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: Picture1.png
+  image: firat_home.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Sivas Cumhuriyet University</p>
+    <p>Department of Computer Engineering</p>
+    <p>Sivas, Turkey</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi, welcome to my website! I am Firat Ismailoglu, PhD. I have been working in data science for more than ten years and in the meantime I have gained experience in many aspects of it.
+
+In addition to serving as my professional blog, this website will also be dedicated to providing educational resources, including lecture notes and source codes, in the fields of data science, computer science, and mathematics. Please feel free to utilize them and do not hesitate to [contact](mailto:firism@gmail.com) me if you encounter any issues.
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
