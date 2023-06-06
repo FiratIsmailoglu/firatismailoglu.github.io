@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A journal paper on utilizing Self-Organsing Maps for  Zero-Shot Learning has been published in [Neural Computing and Applications] (https://link.springer.com/article/10.1007/s00521-023-08299-1/).
-
- [Turkish Journal of Electrical Engineering and Computer Sciences](https://link.springer.com/article/10.1007/s00521-023-08299-1/).
+A journal paper on utilizing Self-Organsing Maps for  Zero-Shot Learning has been published in [Neural Computing and Applications](https://link.springer.com/article/10.1007/s00521-023-08299-1/).
