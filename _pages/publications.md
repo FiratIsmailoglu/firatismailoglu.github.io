@@ -6,7 +6,7 @@ title: Publications
 description: Publications about some works that I have done or collaborated with. You can download the documents to read them in full.
 sections:
   - bibquery: "@article"
-    text: "Journal articles"
+    text: <h1>"Journal articles"<\h1>
   - bibquery: "@inproceedings"
     text: "Conference and workshop papers"
   - bibquery: "@misc|@phdthesis|@mastersthesis"
