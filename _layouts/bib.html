@@ -25,6 +25,18 @@
           {%- endif -%}
         {%- endif -%}
         </div>
+            
+         <div class="col-sm-3">
+        {%- if entry.teaser -%}
+          {% if entry.teaser contains '://' -%}
+          <img class="teaser" src="{{ entry.teaser }}">
+          {%- else -%}
+          <img class="teaser" src="{{ entry.teaser | prepend: '/assets/img/' | relative_url }}">
+          {%- endif -%}
+        {%- endif -%}
+         </div>   
+            
+            
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
