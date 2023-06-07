@@ -161,6 +161,7 @@ a:hover,
 table.table a:hover {
   color: var(--global-theme-color);
   text-decoration: underline;
+  float: left;
 }
 a:hover:after :not(.nav-item.dropdown),
 table.table a:hover:after :not(.nav-item.dropdown) {
