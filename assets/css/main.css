@@ -699,40 +699,17 @@ d-byline a:hover, d-article d-byline a:hover {
 d-article {
   border-top-color: var(--global-divider-color) !important;
 }
-d-article p, d-article h1, d-article h2, d-article h3, d-article h4, d-article h5, d-article h6, d-article li, d-article table {
+d-article a, d-article p, d-article h1, d-article h2, d-article h3, d-article h4, d-article h5, d-article h6, d-article li, d-article table {
   color: var(--global-text-color) !important;
 }
-d-article h1, d-article h2, d-article hr, d-article table, d-article table th, d-article table td {
+d-article a, d-article h1, d-article h2, d-article hr, d-article table, d-article table th, d-article table td {
   border-bottom-color: var(--global-divider-color) !important;
 }
-d-article a {
-  color: var(--global-theme-color) !important;
-}
 d-article a:hover {
-  color: var(--global-theme-color) !important;
+  border-bottom-color: var(--global-hover-color) !important;
 }
 d-article b i {
   display: inline;
-}
-d-article details {
-  color: var(--global-text-color);
-  background-color: var(--global-code-bg-color);
-  margin-top: 0;
-  padding: 8px 12px;
-  position: relative;
-  border-radius: 6px;
-  display: block;
-  margin-bottom: 20px;
-  grid-column: text;
-  overflow: auto;
-  max-width: 100%;
-}
-d-article details summary {
-  color: var(--global-theme-color);
-}
-d-article details p {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
 }
 d-article d-contents {
   align-self: start;
