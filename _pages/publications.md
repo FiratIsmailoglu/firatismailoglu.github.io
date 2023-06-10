@@ -2,8 +2,7 @@
 
 layout: page
 permalink: /publications/
-title: Publications
-description: Publications about some works that I have done or collaborated with. You can download the documents to read them in full.
+title: publications
 sections:
   - bibquery: "@article"
     text: "Journal Papers"
