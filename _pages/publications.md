@@ -20,8 +20,9 @@ nav_order: 4
 <div class="publications">
 
 {%- for section in page.sections %}
-  <a id="{{**section.text**}}"></a>
-  <p class="bibtitle">{{section.text}}</p>
+  <a id="{{section.text}}"></a>
+  <p class="bibtitle">{{**section.text**}}</p>
+    <h1> section.text</h1>
   {%- for y in page.years %}
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
