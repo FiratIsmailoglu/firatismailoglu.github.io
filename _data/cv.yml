@@ -39,7 +39,12 @@
       description:
         Spatio-temporal data mining 
 
-      
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.  
  
 
 
