@@ -39,15 +39,6 @@
       description:
         Spatio-temporal data mining 
 
-- title: Programming Languages and Platforms 
-  type: nested_list
-  contents:
-    - title: All purpose programming lanuages:
-      items: 
-        - Python 
-        - R 
-        - MATLAB 
-    
       
  
 
