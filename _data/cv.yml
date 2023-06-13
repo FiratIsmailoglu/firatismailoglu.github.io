@@ -24,8 +24,19 @@
       institution: Selcuk University, Konya, Turkey
       year: 2007
       description:
-        -Topology
+        Topology
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistant  Professor of Computer Science
+      institution: Sivas Cumhuriyet University
+      year: 2018 - 
+    - title: Postdoc Researcher
+      institution: Eindhoven University of Technology - Philips Lighting (now Signify)
+      year : 2017
+      description:
+         Spatio-temporal data mining 
 
 
 
