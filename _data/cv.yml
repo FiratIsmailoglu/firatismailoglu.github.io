@@ -39,12 +39,14 @@
       description:
         Spatio-temporal data mining 
 
-- title: Academic Interests
+- title: Programming Languages and Platforms 
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: All purpose programming lanuages:
       items: 
-        - Description 1.  
+        - Python 
+        - R
+        - MATLAB
  
 
 
