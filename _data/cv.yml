@@ -42,6 +42,22 @@
 - title: Programming Languages and Platforms 
   type: nested_list
   contents:
+    - title: All purpose programming lanuages
+      items: 
+        - Python 
+        - R 
+        - MATLAB 
+    - title: Data science libraries and platforms
+      items:
+        - Tensorflow
+        - Weka 
+        - Orange
+    - title: Data manipulation
+      items:
+        - PostgreSQL
+    - title: Logic programming
+      items:
+        - Prolog
 
         
  
