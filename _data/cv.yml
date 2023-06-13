@@ -47,17 +47,8 @@
         - Python 
         - R 
         - MATLAB 
-    - title: Data science libraries and platforms:
-      items:
-        - Tensorflow
-        - Weka 
-        - Orange
-    - title: Data manipulation
-      items:
-        - PostgreSQL
-    - title: Logic programming
-      items:
-        - Prolog
+    
+      
  
 
 
