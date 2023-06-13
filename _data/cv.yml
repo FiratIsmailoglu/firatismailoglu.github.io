@@ -42,9 +42,7 @@
 - title: Programming Languages and Platforms 
   type: nested_list
   contents:
-    - title: All purpose programming lanuages:
-      items: 
-        - Python 
+
         
  
 
