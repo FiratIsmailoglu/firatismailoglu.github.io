@@ -2,18 +2,14 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: A growing collection of your cool projects.
+description: Here is the list of the courses that I have taught so far. Each course has its own teaching materials created by me. Currently, these materials are in Turkish, but they will be converted into English soon.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
 <div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
@@ -32,8 +28,7 @@ horizontal: false
       {% include projects.html %}
     {%- endfor %}
   </div>
-  {%- endif -%}
-  {% endfor %}
+
 
 {%- else -%}
 <!-- Display projects without categories -->
