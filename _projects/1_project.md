@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+description: data mining courses that I thaught in fall 2019, 2021 and 2023
+img: assets/img/data_mining.jpg
 importance: 1
 course: 1 
 category: work
