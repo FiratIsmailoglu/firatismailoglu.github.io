@@ -10,7 +10,6 @@ horizontal: false
    
 <!-- pages/projects.md -->
 <div class="projects">
-
 <!-- Display projects without categories -->
   {%- assign sorted_projects = site.teaching | sort: "importance" -%}
   <!-- Generate cards for each project -->
