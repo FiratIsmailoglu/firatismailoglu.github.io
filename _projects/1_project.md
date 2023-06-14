@@ -1,6 +1,6 @@
 ---
 layout: page
-title: data mining (veri madenciliği)
+title: (veri madenciliği)
 description: data mining courses that I thaught in fall 2019, 2021 and 2023
 img: assets/img/data_mining.jpg
 importance: 1
