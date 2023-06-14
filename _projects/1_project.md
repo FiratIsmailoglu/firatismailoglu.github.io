@@ -1,7 +1,7 @@
 ---
-layout: page
-title: (veri madenciliği)
-description: data mining courses that I thaught in fall 2019, 2021 and 2023
+layout: course
+title: veri madenciliği
+description: a data mining course that I taught in fall 2019, 2021 and 2022
 img: assets/img/data_mining.jpg
 importance: 1
 course: 1 
