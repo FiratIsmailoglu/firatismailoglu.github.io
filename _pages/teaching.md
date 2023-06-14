@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 horizontal: false
 ---
-
+   
 <!-- pages/projects.md -->
 <div class="projects">
 
