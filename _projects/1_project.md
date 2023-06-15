@@ -11,7 +11,9 @@ category: work
 <strong> Hafta 1: </strong> Veri Madenciliğine Giriş   [pdf](/assets/pdf/example_pdf.pdf)
 
 
-
+<h2>Ders Notlari</h2>
+<h3>Ders Notlari</h3>
+ [Veri Madenciliğine Giriş](/assets/pdf/example_pdf.pdf)
 Veri Madencilipine giriş:
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
