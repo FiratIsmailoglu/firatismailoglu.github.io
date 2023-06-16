@@ -8,7 +8,7 @@ course: 1
 category: work
 ---
 
-<h2>Ders Notları</h2>
+<h2>ders notları</h2>
 <ul>
   <li>Veri Madenciliğine Giriş ve Motivasyon (Introduction and Motivation): [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) </li>
   <li>Veri Ön işleme (Data Preprocessing): [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf)</li>
@@ -20,5 +20,5 @@ category: work
   <li>Kümeleme - Gruplama - 2 (Clustering -2): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama_2.pdf)</li>  
  <li>Birliktelik Kuralları (Association Rule Mining): [pdf](/assets/pdf/ firism_veri_madenciliği_birliktelik kurallari.pdf)</li>
 </ul>
-
+ [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) 
 
