@@ -15,7 +15,7 @@ category: work
   
   &#x2022; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf)
 
-<strong>&#8226;<\strong> HTML 
+**&#8226;HTML  <br />
 <strong>&bull;<\strong> CSS <br />
 &#8226; JavaScript
 &#x2022; Veri Ön işl
