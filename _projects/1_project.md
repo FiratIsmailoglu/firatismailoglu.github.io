@@ -10,30 +10,15 @@ category: work
 
 <h2>ders notları</h2>
 
-  &#x2022; Veri Madenciliğine Giriş ve Motivasyon (Introduction and Motivation): [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) <br />
-  &#x2022; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf)
-  
-  &#x2022; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf)
+  &#8226; Veri Madenciliğine Giriş ve Motivasyon (Introduction and Motivation): [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) <br />
+ &#8226; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf) <br />
+   &#8226; Sınıflandırmaya Giriş - KNN - Perseptron (Introduction to Classification- KNN- Perceptron): [pdf](/assets/pdf/firism_veri_madenciliği_siniflandirmaya_giris_knn_perseptron.pdf)<br />
+ &#8226; Naive Bayes - Lojistik Regresyon (Naive Bayes and Logistic Regression): [pdf](/assets/pdf/firism_veri_madenciliği_naive_bayes_lojistik_regresyon.pdf)<br /> 
+  &#8226;  Karar Ağaçları (Decision Trees): [pdf](/assets/pdf/firism_veri_madenciliği_karar_agaclari.pdf)<br /> 
+ &#8226; Regresyon ve Gradient Descent (Regression and Gradient Descent): [pdf](/assets/pdf/firism_veri_madenciliği_regresyon_gradient_descent.pdf)<br />
+  &#8226; Kümeleme - Gruplama - 1 (Clustering -1): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama.pdf)<br />
+   &#8226; Kümeleme - Gruplama - 2 (Clustering -2): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama_2.pdf)<br />
+  &#8226; Birliktelik Kuralları (Association Rule Mining): [pdf](/assets/pdf/ firism_veri_madenciliği_birliktelik kurallari.pdf)<br />
 
-**&#8226;HTML  <br />
-<strong>&bull;<\strong> CSS <br />
-&#8226; JavaScript
-&#x2022; Veri Ön işl
-
-<span class="benefits">
-&bull; Free entry<br />
-&bull; 20% off in store<br />
-&bull; First to know about latest courses
-</span>
-  
-   <ul>
-  <li>Sınıflandırmaya Giriş - KNN - Perseptron (Introduction to Classification- KNN- Perceptron): [pdf](/assets/pdf/firism_veri_madenciliği_siniflandirmaya_giris_knn_perseptron.pdf)</li>
- <li>Naive Bayes - Lojistik Regresyon (Naive Bayes and Logistic Regression): [pdf](/assets/pdf/firism_veri_madenciliği_naive_bayes_lojistik_regresyon.pdf)</li>  
-  <li>Karar Ağaçları (Decision Trees): [pdf](/assets/pdf/firism_veri_madenciliği_karar_agaclari.pdf)</li>  
- <li>Regresyon ve Gradient Descent (Regression and Gradient Descent): [pdf](/assets/pdf/firism_veri_madenciliği_regresyon_gradient_descent.pdf)</li>  
-  <li>Kümeleme - Gruplama - 1 (Clustering -1): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama.pdf)</li>  
-  <li>Kümeleme - Gruplama - 2 (Clustering -2): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama_2.pdf)</li>  
- <li>Birliktelik Kuralları (Association Rule Mining): [pdf](/assets/pdf/ firism_veri_madenciliği_birliktelik kurallari.pdf)</li>
-</ul>
 
 
