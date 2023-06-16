@@ -8,7 +8,7 @@ course: 1
 category: work
 ---
 
-<h2>ders notları</h2>
+<h3>ders notları</h3>
 
   &#8226; Veri Madenciliğine Giriş ve Motivasyon (Introduction and Motivation): [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) <br />
  &#8226; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf) <br />
@@ -22,5 +22,7 @@ category: work
 
   
 
-<h2>Python Notlari ve Örnek Kodlar</h2>
+<h3>python notları ve örnek kodlar</h3>
+
+
 
