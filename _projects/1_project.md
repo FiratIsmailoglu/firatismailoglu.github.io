@@ -10,13 +10,13 @@ category: work
 
 <h2>ders notları</h2>
 
-  &#x2022; Veri Madenciliğine Giriş ve Motivasyon (Introduction and Motivation): [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) 
+  &#x2022; Veri Madenciliğine Giriş ve Motivasyon (Introduction and Motivation): [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) <br />
   &#x2022; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf)
   
   &#x2022; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf)
 
-&#8226; HTML
-&bull; CSS
+&#8226; HTML 
+<strong>&bull<\strong>; CSS
 &#8226; JavaScript
 &#x2022; Veri Ön işl
   
