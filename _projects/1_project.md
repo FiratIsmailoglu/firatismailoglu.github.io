@@ -22,5 +22,5 @@ category: work
 
   
 
-
+<h2>Python Notlari ve Örnek Kodlar</h2>
 
