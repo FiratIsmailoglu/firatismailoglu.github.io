@@ -15,10 +15,16 @@ category: work
   
   &#x2022; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf)
 
-&#8226; HTML 
+<strong>&#8226;<\strong> HTML 
 <strong>&bull;<\strong> CSS <br />
 &#8226; JavaScript
 &#x2022; Veri Ön işl
+
+<span class="benefits">
+&bull; Free entry<br />
+&bull; 20% off in store<br />
+&bull; First to know about latest courses
+</span>
   
    <ul>
   <li>Sınıflandırmaya Giriş - KNN - Perseptron (Introduction to Classification- KNN- Perceptron): [pdf](/assets/pdf/firism_veri_madenciliği_siniflandirmaya_giris_knn_perseptron.pdf)</li>
