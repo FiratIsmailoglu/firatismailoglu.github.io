@@ -20,5 +20,7 @@ category: work
    &#8226; Kümeleme - Gruplama - 2 (Clustering -2): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama_2.pdf)<br />
   &#8226; Birliktelik Kuralları (Association Rule Mining): [pdf](/assets/pdf/ firism_veri_madenciliği_birliktelik kurallari.pdf)<br />
 
+  
+
 
 
