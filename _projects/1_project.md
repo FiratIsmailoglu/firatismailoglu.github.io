@@ -8,81 +8,17 @@ course: 1
 category: work
 ---
 
-<strong> Hafta 1: </strong> Veri Madenciliğine Giriş   [pdf](/assets/pdf/example_pdf.pdf)
+<h2>Ders Notları</h2>
+<ul>
+  <li>Veri Madenciliğine Giriş ve Motivasyon (Introduction and Motivation): [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) </li>
+  <li>Veri Ön işleme (Data Preprocessing): [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf)</li>
+  <li>Sınıflandırmaya Giriş - KNN - Perseptron (Introduction to Classification- KNN- Perceptron): [pdf](/assets/pdf/firism_veri_madenciliği_siniflandirmaya_giris_knn_perseptron.pdf)</li>
+ <li>Naive Bayes - Lojistik Regresyon (Naive Bayes and Logistic Regression): [pdf](/assets/pdf/firism_veri_madenciliği_naive_bayes_lojistik_regresyon.pdf)</li>  
+  <li>Karar Ağaçları (Decision Trees): [pdf](/assets/pdf/firism_veri_madenciliği_karar_agaclari.pdf)</li>  
+ <li>Regresyon ve Gradient Descent (Regression and Gradient Descent): [pdf](/assets/pdf/firism_veri_madenciliği_regresyon_gradient_descent.pdf)</li>  
+  <li>Kümeleme - Gruplama - 1 (Clustering -1): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama.pdf)</li>  
+  <li>Kümeleme - Gruplama - 2 (Clustering -2): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama_2.pdf)</li>  
+ <li>Birliktelik Kuralları (Association Rule Mining): [pdf](/assets/pdf/ firism_veri_madenciliği_birliktelik kurallari.pdf)</li>
+</ul>
 
 
-<h2>Ders Notlari</h2>
-<h3>Ders Notlari</h3>
- [Veri Madenciliğine Giriş](/assets/pdf/example_pdf.pdf)
-Veri Madencilipine giriş:
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
