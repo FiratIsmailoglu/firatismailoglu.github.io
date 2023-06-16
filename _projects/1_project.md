@@ -22,7 +22,19 @@ category: work
 
   
 
-<h3>python notları ve örnek kodlar</h3>
+<h3>python notları ve  örnek kodlar </h3>
+ &#8226; Pandas Notları : [pdf](/assets/pdf/Pandas Notlari.pdf) <br />
+  &#8226; Numpy Notları : [pdf](/assets/pdf/Numpy Notları.pdf) <br />
+  &#8226; Veri Temizleme : [py](/assets/pdf/firism_veri_temizleme.py) <br />
+  &#8226; K- en yakın komşu : [py](/assets/pdf/firism_knn.py) <br />
+   &#8226; Naive Bayes  : [py](/assets/pdf/firism_naive_bayes.py) <br />
+    &#8226; Lineer Regresyon ve Gradient Descent : [py](/assets/pdf/firism_gradient_descent_lineerReg.py) <br />
+  &#8226; Ham Kaggle Titanik Veriseti : [xlsx](/assets/pdf/kaggle_titanic_raw.xlsx) <br />
+  
 
+
+
+
+  
 
 
