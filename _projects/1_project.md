@@ -18,7 +18,7 @@ category: work
  &#8226; Regresyon ve Gradient Descent (Regression and Gradient Descent): [pdf](/assets/pdf/firism_veri_madenciliği_regresyon_gradient_descent.pdf)<br />
   &#8226; Kümeleme - Gruplama - 1 (Clustering -1): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama.pdf)<br />
    &#8226; Kümeleme - Gruplama - 2 (Clustering -2): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama_2.pdf)<br />
-  &#8226; Birliktelik Kuralları (Association Rule Mining): [pdf](/assets/pdf/ firism_veri_madenciliği_birliktelik kurallari.pdf)<br />
+  &#8226; Birliktelik Kuralları (Association Rule Mining): [pdf](/assets/pdf/firism_veri_madenciliği_birliktelik kurallar.pdf)<br />
 
   
 
@@ -32,6 +32,10 @@ category: work
   &#8226; Ham Kaggle Titanik Veriseti : [xlsx](/assets/pdf/kaggle_titanic_raw.xlsx) <br />
   
 
+<h3>örnek sınav soruları</h3>
+ &#8226; Vize Soruları: [pdf](/assets/pdf/firism_vize_soru_ve_cevaplar.pdf) <br />
+  &#8226; Final Soruları-1 : [pdf](/assets/pdf/firism_final_soru_ve_cevaplar_1.pdf) <br />
+   &#8226; Final Soruları-2 : [pdf](/assets/pdf/firism_final_soru_ve_cevaplar_2.pdf) <br />
 
 
 
