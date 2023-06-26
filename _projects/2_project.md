@@ -13,7 +13,7 @@ category: work
 
 
 &#8226; Olasılık Giriş ve Temel Kavramlar (Introduction and Fundemental Concepts) [pdf](/assets/pdf/firism_olasılık_stat_temel_kavramlar.pdf)<br />
-&#8226; Veri Analizi (Data Analysis) [pdf](/assets/pdf/firism_olasılık_stat_veri_analizi.pdf
+&#8226; Veri Analizi (Data Analysis) [pdf](/assets/pdf/firism_olasılık_stat_veri_analizi.pdf)<br />
 &#8226; Korelasyon ve R (Correlation and R Basics)  [pdf](/assets/pdf/firism_olasılık_stat_korelasyon_r.pdf)<br />
 &#8226; Olasılık Teoremi -1 (Probability Theorem -1)  [pdf](/assets/pdf/firism_olasılık_stat_olasılık_1.pdf)<br />
 &#8226; Olasılık Teoremi -2 (Probability Theorem -2)  [pdf](/assets/pdf/assets/pdf/firism_olasılık_stat_olasılık_2.pdf)<br />
