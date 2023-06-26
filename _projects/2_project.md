@@ -10,15 +10,22 @@ category: work
 
 <h3>ders notları</h3>
 
-  &#8226; Veri Madenciliğine Giriş ve Motivasyon (Introduction and Motivation): [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) <br />
- &#8226; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf) <br />
-   &#8226; Sınıflandırmaya Giriş - KNN - Perseptron (Introduction to Classification- KNN- Perceptron): [pdf](/assets/pdf/firism_veri_madenciliği_siniflandirmaya_giris_knn_perseptron.pdf)<br />
- &#8226; Naive Bayes - Lojistik Regresyon (Naive Bayes and Logistic Regression): [pdf](/assets/pdf/firism_veri_madenciliği_naive_bayes_lojistik_regresyon.pdf)<br /> 
-  &#8226;  Karar Ağaçları (Decision Trees): [pdf](/assets/pdf/firism_veri_madenciliği_karar_agaclari.pdf)<br /> 
- &#8226; Regresyon ve Gradient Descent (Regression and Gradient Descent): [pdf](/assets/pdf/firism_veri_madenciliği_regresyon_gradient_descent.pdf)<br />
-  &#8226; Kümeleme - Gruplama - 1 (Clustering -1): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama.pdf)<br />
-   &#8226; Kümeleme - Gruplama - 2 (Clustering -2): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama_2.pdf)<br />
-  &#8226; Birliktelik Kuralları (Association Rule Mining): [pdf](/assets/pdf/firism_veri_madenciliği_birliktelik kurallar.pdf)<br />
+
+
+&#8226; Olasılık Giriş ve Temel Kavramlar (Introduction and Fundemental Concepts) [pdf](/assets/pdf/firism_olasılık_stat_temel_kavramlar.pdf)<br />
+&#8226; Veri Analizi (Data Analysis) [pdf](/assets/pdf/firism_olasılık_stat_veri_analizi.pdf
+&#8226; Korelasyon ve R (Correlation and R Basics)  [pdf](/assets/pdf/firism_olasılık_stat_korelasyon_r.pdf)<br />
+&#8226; Olasılık Teoremi -1 (Probability Theorem -1)  [pdf](/assets/pdf/firism_olasılık_stat_olasılık_1.pdf)<br />
+&#8226; Olasılık Teoremi -2 (Probability Theorem -2)  [pdf](/assets/pdf/assets/pdf/firism_olasılık_stat_olasılık_2.pdf)<br />
+&#8226;  Bayes Teoremi (Bayes Theorem)  [pdf](/assets/pdf/assets/pdf/firism_olasılık_stat_bayes_teoremi.pdf)<br />
+&#8226; Ayrık Rastgele Değişkenler -1 (Discrete Random Variables -1)  [pdf](/assets/pdf/firism_olasılık_stat_ayrık_rastgele_değişkenler.pdf)<br />
+&#8226; Ayrık Rastgele Değişkenler -2 (Discrete Random Variables -2)  [pdf](/assets/pdf/firism_olasılık_stat_ayrık_rastgele_değişkenler_2.pdf)<br />
+&#8226; Sürekli Rastgele Değişkenler (Continious Random Variables) [pdf](/assets/pdf/firism_olasılık_stat_sürekli_rastgele_değişkenler.pdf)<br />
+&#8226; Merkezi Limit Teoremi (Central Limit Theorem)  [pdf](/assets/pdf/firism_olasılık_stat_merkezi_limit_teoremi.pdf)<br />
+&#8226; Hipotez Testi -1 (Hypothesis Test -1)   [pdf](/assets/pdf/firism_olasılık_stat_hipotez_testi_1.pdf)<br />
+&#8226; Hipotez Testi -2 (Hypothesis Test -2)   [pdf](/assets/pdf/firism_olasılık_stat_hipotez_testi_2.pdf)<br />
+
+
 
   
 
