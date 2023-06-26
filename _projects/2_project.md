@@ -1,7 +1,7 @@
 ---
 layout: page
 title: olasılık ve istatistik
-description: a probabilit/stat course that I taught in fall 2020, 2021 and 2022
+description: a probability/stat course that I taught in fall 2020, 2021 and 2022
 img: assets/img/probab.jpg
 importance: 1
 course: 1 
