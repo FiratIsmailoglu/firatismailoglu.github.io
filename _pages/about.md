@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: ben.jpg
+  image: ben.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Sivas Cumhuriyet University,</p>
