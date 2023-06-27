@@ -10,15 +10,19 @@ category: work
 
 <h3>ders notları</h3>
 
-  &#8226; Veri Madenciliğine Giriş ve Motivasyon (Introduction and Motivation): [pdf](/assets/pdf/firism_veri_madenciliği_giris_motivasyon.pdf) <br />
- &#8226; Veri Ön işleme (Data Preprocessing):  [pdf](/assets/pdf/firism_veri_madenciliği_veri_önişleme.pdf) <br />
-   &#8226; Sınıflandırmaya Giriş - KNN - Perseptron (Introduction to Classification- KNN- Perceptron): [pdf](/assets/pdf/firism_veri_madenciliği_siniflandirmaya_giris_knn_perseptron.pdf)<br />
- &#8226; Naive Bayes - Lojistik Regresyon (Naive Bayes and Logistic Regression): [pdf](/assets/pdf/firism_veri_madenciliği_naive_bayes_lojistik_regresyon.pdf)<br /> 
-  &#8226;  Karar Ağaçları (Decision Trees): [pdf](/assets/pdf/firism_veri_madenciliği_karar_agaclari.pdf)<br /> 
- &#8226; Regresyon ve Gradient Descent (Regression and Gradient Descent): [pdf](/assets/pdf/firism_veri_madenciliği_regresyon_gradient_descent.pdf)<br />
-  &#8226; Kümeleme - Gruplama - 1 (Clustering -1): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama.pdf)<br />
-   &#8226; Kümeleme - Gruplama - 2 (Clustering -2): [pdf](/assets/pdf/firism_veri_madenciliği_kümeleme_gruplama_2.pdf)<br />
-  &#8226; Birliktelik Kuralları (Association Rule Mining): [pdf](/assets/pdf/firism_veri_madenciliği_birliktelik kurallar.pdf)<br />
+
+  &#8226; Giriş ve Motivasyon (Introduction and Motivation) [pdf](/assets/pdf/firism_ayrik_matematik_giriş_motivasyon.pdf)<br />
+  &#8226; Lojik-1 (Logic-1) [pdf](/assets/pdf/firism_ayrik_matematik_lojik_1.pdf)<br />
+&#8226; Lojik-2 (Logic-2) [pdf](/assets/pdf/firism_ayrik_matematik_lojik_2.pdf)<br />
+&#8226; Kanıt ve Tümevarım (Proof and Induction) [pdf](/assets/pdf/firism_ayrik_matematik_kanit_ve_tumevarim.pdf)<br />
+&#8226; Rekürsiyon (Recursion) [pdf](/assets/pdf/firism_ayrik_matematik_rekürsiyon.pdf)<br />
+&#8226; Algoritmik Karmaşıklık (Algorithmic Complexity) [pdf](/assets/pdf/firism_ayrik_matematik_algoritmik_karmaşıklık.pdf)<br />
+&#8226;  Kriptoloji (Cryptology) [pdf](/assets/pdf/firism_ayrik_matematik_kriptoloji.pdf)<br />
+&#8226; Saymanın Kurlları (Rules of Counting) [pdf](/assets/pdf/firism_ayrik_matematik_saymanin_kurallari.pdf)<br />
+&#8226;  Olasılık-1 (Probability-1) [pdf](/assets/pdf/firism_ayrik_matematik_olasilik_1.pdf)<br />
+&#8226;  Olasılık-1 (Probability-1) [pdf](/assets/pdf/firism_ayrik_matematik_olasilik_2.pdf)<br />
+&#8226;  Graflar-1 (Graphs-1) [pdf](/assets/pdf/firism_ayrik_matematik_graflar_1.pdf)<br />
+&#8226;  Graflar-2 (Graphs-2)[pdf](/assets/pdf/firism_ayrik_matematik_graflar_2.pdf)<br />
 
   
 
