@@ -4,6 +4,7 @@ title: some teaching
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
+course: 1 
 category: work
 ---
 
