@@ -2,7 +2,7 @@
 layout: page
 title: ayrık matematik
 description: a discrete mathematics course that I taught in fall 2019 and 2020
-img: assets/img/discrete.jpg
+img: assets/img/discrete.png
 importance: 1
 course: 1 
 category: work
