@@ -20,7 +20,7 @@ category: work
 &#8226;  Bayes Teoremi (Bayes Theorem)  [pdf](/assets/pdf/assets/pdf/firism_olas?l?k_stat_bayes_teoremi.pdf)<br />
 &#8226; Ayr?k Rastgele De?i?kenler -1 (Discrete Random Variables -1)  [pdf](/assets/pdf/firism_olas?l?k_stat_ayr?k_rastgele_de?i?kenler.pdf)<br />
 &#8226; Ayr?k Rastgele De?i?kenler -2 (Discrete Random Variables -2)  [pdf](/assets/pdf/firism_olas?l?k_stat_ayr?k_rastgele_de?i?kenler_2.pdf)<br />
-&#8226; Sürekli Rastgele De?i?kenler (Continious Random Variables) [pdf](/assets/pdf/firism_olas?l?k_stat_sürekli_rastgele_de?i?kenler.pdf)<br />
+&#8226; SÃ¼rekli Rastgele De?i?kenler (Continious Random Variables) [pdf](/assets/pdf/firism_olas?l?k_stat_sÃ¼rekli_rastgele_de?i?kenler.pdf)<br />
 &#8226; Merkezi Limit Teoremi (Central Limit Theorem)  [pdf](/assets/pdf/firism_olas?l?k_stat_merkezi_limit_teoremi.pdf)<br />
 &#8226; Hipotez Testi -1 (Hypothesis Test -1)   [pdf](/assets/pdf/firism_olas?l?k_stat_hipotez_testi_1.pdf)<br />
 &#8226; Hipotez Testi -2 (Hypothesis Test -2)   [pdf](/assets/pdf/firism_olas?l?k_stat_hipotez_testi_2.pdf)<br />
@@ -30,7 +30,7 @@ category: work
 
   
 
-<h3>örnek s?nav sorular?</h3>
+<h3>Ã¶rnek s?nav sorular?</h3>
  &#8226; Vize Sorular?-1: [pdf](/assets/pdf/firism_vize_stat_21.pdf) <br />
   &#8226; Vize Sorular?-2 : [pdf](/assets/pdf/firism_vize_stat_22.pdf) <br />
    &#8226; Final Sorular? : [pdf](/assets/pdf/firism_final_stat.pdf) <br />
