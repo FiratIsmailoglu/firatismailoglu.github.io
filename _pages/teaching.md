@@ -11,7 +11,7 @@ horizontal: false
 <!-- pages/projects.md -->
 <div class="teaching">
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  {%- assign sorted_projects = site.teaching| sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
