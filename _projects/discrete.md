@@ -18,7 +18,7 @@ category: work
 &#8226; Rekürsiyon (Recursion) [pdf](/assets/pdf/firism_ayrik_matematik_rekürsiyon.pdf)<br />
 &#8226; Algoritmik Karmaşıklık (Algorithmic Complexity) [pdf](/assets/pdf/firism_ayrik_matematik_algoritmik_karmaşıklık.pdf)<br />
 &#8226;  Kriptoloji (Cryptology) [pdf](/assets/pdf/firism_ayrik_matematik_kriptoloji.pdf)<br />
-&#8226; Saymanın Kurlları (Rules of Counting) [pdf](/assets/pdf/firism_ayrik_matematik_saymanin_kurallari.pdf)<br />
+&#8226; Saymanın Kuralları (Rules of Counting) [pdf](/assets/pdf/firism_ayrik_matematik_saymanin_kurallari.pdf)<br />
 &#8226;  Olasılık-1 (Probability-1) [pdf](/assets/pdf/firism_ayrik_matematik_olasilik_1.pdf)<br />
 &#8226;  Olasılık-1 (Probability-1) [pdf](/assets/pdf/firism_ayrik_matematik_olasilik_2.pdf)<br />
 &#8226;  Graflar-1 (Graphs-1) [pdf](/assets/pdf/firism_ayrik_matematik_graflar_1.pdf)<br />
