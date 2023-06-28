@@ -1,6 +1,6 @@
 ---
 layout: page
-title: olasılık ve istatistik
+title: mühendislik ekonomisi
 description: an engineering economics course that I taught in spring 2021, 2022 and 2023
 img: assets/img/engin.jpg
 importance: 1
@@ -12,18 +12,18 @@ category: work
 
 
 
-&#8226; Olasılık Giriş ve Temel Kavramlar (Introduction and Fundemental Concepts) [pdf](/assets/pdf/firism_olas?l?k_stat_temel_kavramlar.pdf)<br />
-&#8226; Veri Analizi (Data Analysis) [pdf](/assets/pdf/firism_olas?l?k_stat_veri_analizi.pdf)<br />
-&#8226; Korelasyon ve R (Correlation and R Basics)  [pdf](/assets/pdf/firism_olas?l?k_stat_korelasyon_r.pdf)<br />
-&#8226; Olasılık Teoremi -1 (Probability Theorem -1)  [pdf](/assets/pdf/firism_olas?l?k_stat_olas?l?k_1.pdf)<br />
-&#8226; Olasılık Teoremi -2 (Probability Theorem -2)  [pdf](/assets/pdf/assets/pdf/firism_olas?l?k_stat_olas?l?k_2.pdf)<br />
-&#8226;  Bayes Teoremi (Bayes Theorem)  [pdf](/assets/pdf/assets/pdf/firism_olas?l?k_stat_bayes_teoremi.pdf)<br />
-&#8226; Ayrık Rastgele Değişkenler -1 (Discrete Random Variables -1)  [pdf](/assets/pdf/firism_olas?l?k_stat_ayr?k_rastgele_de?i?kenler.pdf)<br />
-&#8226; Ayrık Rastgele Değişkenler -2 (Discrete Random Variables -2)  [pdf](/assets/pdf/firism_olas?l?k_stat_ayr?k_rastgele_de?i?kenler_2.pdf)<br />
-&#8226; Sürekli Rastgele Değişkenler (Continious Random Variables) [pdf](/assets/pdf/firism_olas?l?k_stat_sürekli_rastgele_de?i?kenler.pdf)<br />
-&#8226; Merkezi Limit Teoremi (Central Limit Theorem)  [pdf](/assets/pdf/firism_olas?l?k_stat_merkezi_limit_teoremi.pdf)<br />
-&#8226; Hipotez Testi -1 (Hypothesis Test -1)   [pdf](/assets/pdf/firism_olas?l?k_stat_hipotez_testi_1.pdf)<br />
-&#8226; Hipotez Testi -2 (Hypothesis Test -2)   [pdf](/assets/pdf/firism_olas?l?k_stat_hipotez_testi_2.pdf)<br />
+&#8226;Temel Ekonomi Kavrmaları (Basic Economic Concepts) [pdf](/assets/pdf/firism_müh_eko_temel_ekonomi_kavramlari.pdf)<br />
+&#8226;Üretim Teoresi ve Maliyetler (Manufacturing Economy and Costs)[pdf](/assets/pdf/firism_müh_eko_üretim_teoresi_maliyetler.pdf)<br />
+&#8226;Fiyat Teorisi - Arz ve Talep (Theory of Price - Supply and Demand) [pdf](/assets/pdf/firism_müh_eko_fiyat_teorisi_arz_talep.pdf)<br />
+&#8226;Fayda ve Gelir (Benefir and Income) [pdf](/assets/pdf/firism_müh_eko_fayda_ve_gelir.pdf)<br />
+&#8226;Paranın Zaman Değeri - Basit ve Bileşik Faiz (Time Value of Money-Simple and Compound Interest) [pdf](/assets/pdf/firism_müh_eko_paranin_zaman_degeri_basit_bilesik_faiz.pdf)<br />
+&#8226;Paranın Zaman Değeri -Dönem İçi  Faiz (Time Value of Money - Periodic Interest Rate) [pdf](/assets/pdf/firism_müh_eko_paranin_zaman_degeri_dönem_içi_faiz.pdf)<br />
+&#8226;Şimdiki Değer Analizi (Present Value Analysis) [pdf](/assets/pdf/firism_müh_eko_şimdiki_değer_analizi.pdf)<br />
+&#8226; Geri Ödeme Süresi - İç Karlılık Oranı (Payback Period - Internal Rate of Return) [pdf](/assets/pdf/firism_müh_eko_geri_ödeme_süresi_karlilik_orani.pdf)<br />
+&#8226; Başabaş Analizi (Break-Even Analysis) [pdf](/assets/pdf/firism_müh_eko_başabaş_analizi.pdf)<br />
+&#8226;Yıllık Eşdeğer Hasıla (Annual Equivalent Cost) [pdf](/assets/pdf/firism_müh_eko_yıllık_eşdeğer_hasıla.pdf)<br />
+
+
 
 
 
