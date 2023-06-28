@@ -1,8 +1,8 @@
 ---
 layout: page
-title: olasılık ve istatistik
-description: a probability/stat course that I taught in fall 2020, 2021 and 2022
-img: assets/img/probab.jpg
+title: bilgisayar destekli lineer cebir
+description: a computer aided linear algebra course that I taught in spring 2021, 2022 and 2023
+img: assets/img/linear.png
 importance: 1
 course: 1 
 category: work
