@@ -12,7 +12,7 @@ category: work
 
 
 
-&#8226;Temel Ekonomi Kavrmaları (Basic  Concepts of Economics) [pdf](/assets/pdf/firism_müh_eko_temel_ekonomi_kavramlari.pdf)<br />
+&#8226;Temel Ekonomi Kavramları (Basic  Concepts of Economics) [pdf](/assets/pdf/firism_müh_eko_temel_ekonomi_kavramlari.pdf)<br />
 &#8226;Üretim Teoresi ve Maliyetler (Manufacturing Economy and Costs)[pdf](/assets/pdf/firism_müh_eko_üretim_teoresi_maliyetler.pdf)<br />
 &#8226;Fiyat Teorisi - Arz ve Talep (Theory of Price - Supply and Demand) [pdf](/assets/pdf/firism_müh_eko_fiyat_teorisi_arz_talep.pdf)<br />
 &#8226;Fayda ve Gelir (Benefir and Income) [pdf](/assets/pdf/firism_müh_eko_fayda_ve_gelir.pdf)<br />
