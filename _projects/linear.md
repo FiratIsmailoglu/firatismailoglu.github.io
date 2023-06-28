@@ -21,15 +21,22 @@ category: work
 &#8226; Matris Tersi (Inverse of a Matrix) [pdf](/assets/pdf/firism_lineer_cebir_matris_tersi.pdf)<br />
 &#8226; Özdeğer - Özvektörler (Eigenvalues- Eigenvectors)  [pdf](/assets/pdf/firism_lineer_cebir_özdeğer_özvektör.pdf)<br />
 
+<h3>matlab notları ve çalışma soruları</h3>
 
+&#8226; Temel Matlab Komutları [pdf](/assets/pdf/firism_matlab_basics.pdf)<br />
+&#8226; Matlab Çalışma Soruları-1[pdf](/assets/pdf/Matab_Octave Calisma Sorulari 1.pdf)<br />
+&#8226; Matlab Çalışma Soruları-1 Çözümler[pdf](/assets/pdf/Çalışma Soruları -1 Çözümler.pdf)<br />
+&#8226; Matlab Çalışma Soruları-2[pdf](/assets/pdf/Matlab - Octave Çalışma Sorulari 2.pdf)<br />
+&#8226; Matlab Çalışma Soruları-3[pdf](/assets/pdf/Matab_Octave Calisma Sorulari 3.pdf)<br />
 
   
 
 <h3>örnek sınav soruları</h3>
- &#8226; Vize Soruları-1: [pdf](/assets/pdf/firism_vize_stat_21.pdf) <br />
-  &#8226; Vize Soruları-2 : [pdf](/assets/pdf/firism_vize_stat_22.pdf) <br />
-   &#8226; Final Soruları : [pdf](/assets/pdf/firism_final_stat.pdf) <br />
-
+ &#8226; Vize Soruları-1: [pdf](/assets/pdf/firism_lineer_cebir_vize_1.pdf) <br />
+  &#8226; Vize Soruları-2 : [pdf](/assets/pdf/firism_lineer_cebir_vize_1.pdf) <br />
+   &#8226; Final Soruları (Klasik): [pdf](/assets/pdf/firism_lineer_cebir_final_klasik.pdf) <br />
+  &#8226; Final Soruları (Test): [pdf](/assets/pdf/firism_lineer_cebir_final_test.pdf) <br />
+   &#8226; Bütünleme Soruları: [pdf](/assets/pdf/firism_lineer_cebir_bütünleme_sorular_ve_cevaplar.pdf) <br />
 
 
   
