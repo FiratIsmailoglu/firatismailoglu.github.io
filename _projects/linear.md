@@ -2,7 +2,7 @@
 layout: page
 title: bilgisayar destekli lineer cebir
 description: a computer aided linear algebra course that I taught in spring 2021, 2022 and 2023
-img: assets/img/linear.png
+img: assets/img/linear.jpg
 importance: 1
 course: 1 
 category: work
