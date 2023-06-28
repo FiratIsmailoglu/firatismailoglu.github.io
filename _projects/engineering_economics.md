@@ -31,9 +31,8 @@ category: work
   
 
 <h3>örnek sınav soruları</h3>
- &#8226; Vize Soruları-1: [pdf](/assets/pdf/firism_vize_stat_21.pdf) <br />
-  &#8226; Vize Soruları-2 : [pdf](/assets/pdf/firism_vize_stat_22.pdf) <br />
-   &#8226; Final Soruları : [pdf](/assets/pdf/firism_final_stat.pdf) <br />
+ &#8226; Vize Soruları: [pdf](/assets/pdf/firism_müh_eko_vize_sorular_cozumleri.pdf) <br />
+   &#8226; Final Soruları : [pdf](/assets/pdf/firism_müh_eko_final_sorular_cozumler.pdf) <br />
 
 
 
