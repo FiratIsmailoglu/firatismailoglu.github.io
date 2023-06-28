@@ -10,21 +10,16 @@ category: work
 
 <h3>ders notları</h3>
 
-
-
-&#8226; Olasılık Giriş ve Temel Kavramlar (Introduction and Fundemental Concepts) [pdf](/assets/pdf/firism_olas?l?k_stat_temel_kavramlar.pdf)<br />
-&#8226; Veri Analizi (Data Analysis) [pdf](/assets/pdf/firism_olas?l?k_stat_veri_analizi.pdf)<br />
-&#8226; Korelasyon ve R (Correlation and R Basics)  [pdf](/assets/pdf/firism_olas?l?k_stat_korelasyon_r.pdf)<br />
-&#8226; Olasılık Teoremi -1 (Probability Theorem -1)  [pdf](/assets/pdf/firism_olas?l?k_stat_olas?l?k_1.pdf)<br />
-&#8226; Olasılık Teoremi -2 (Probability Theorem -2)  [pdf](/assets/pdf/assets/pdf/firism_olas?l?k_stat_olas?l?k_2.pdf)<br />
-&#8226;  Bayes Teoremi (Bayes Theorem)  [pdf](/assets/pdf/assets/pdf/firism_olas?l?k_stat_bayes_teoremi.pdf)<br />
-&#8226; Ayrık Rastgele Değişkenler -1 (Discrete Random Variables -1)  [pdf](/assets/pdf/firism_olas?l?k_stat_ayr?k_rastgele_de?i?kenler.pdf)<br />
-&#8226; Ayrık Rastgele Değişkenler -2 (Discrete Random Variables -2)  [pdf](/assets/pdf/firism_olas?l?k_stat_ayr?k_rastgele_de?i?kenler_2.pdf)<br />
-&#8226; Sürekli Rastgele Değişkenler (Continious Random Variables) [pdf](/assets/pdf/firism_olas?l?k_stat_sürekli_rastgele_de?i?kenler.pdf)<br />
-&#8226; Merkezi Limit Teoremi (Central Limit Theorem)  [pdf](/assets/pdf/firism_olas?l?k_stat_merkezi_limit_teoremi.pdf)<br />
-&#8226; Hipotez Testi -1 (Hypothesis Test -1)   [pdf](/assets/pdf/firism_olas?l?k_stat_hipotez_testi_1.pdf)<br />
-&#8226; Hipotez Testi -2 (Hypothesis Test -2)   [pdf](/assets/pdf/firism_olas?l?k_stat_hipotez_testi_2.pdf)<br />
-
+&#8226; Vektörler-1 (Vektör Operasyonları/Lineer Bağımlılık) (Vector Operations/Linerar Dependence)   [pdf](/assets/pdf/firism_lineer_cebir_vektörler_1.pdf)<br />
+&#8226; Vektörler-2 (Vektör Uzayları/Germe-Baz) (Vector Spaces/Spaning-Basis) [pdf](/assets/pdf/firism_lineer_cebir_vektörler_2.pdf)<br />
+&#8226; Vektörler-3 (İç Çarpım/Lineer Transformasyon) (Inner Product/Linear Transformation)   [pdf](/assets/pdf/firism_lineer_cebir_vektörler_3.pdf)<br />
+&#8226; Vektörler-4 (Ortogonal Vektörler/Cauchy – Schwarz Eşitsizliği)  (Orthogonal Vectors/ Cauchy – Schwarz Inequality) [pdf](/assets/pdf/firism_lineer_cebir_vektörler_4.pdf)<br />
+&#8226; Matrisler- 1 (Özel Matrisler/Matris-Vektör Çarpımı) (Special Matrices/Matrix-Vector Product) [pdf](/assets/pdf/firism_lineer_cebir_matrisler_1.pdf)<br />
+&#8226; Matrisler- 2 (Matris-Matris Çarpımı) (Matrix-Matrix Product)   [pdf](/assets/pdf/firism_lineer_cebir_matrisler_2.pdf)<br />
+&#8226; Lineer Denklem Sistemlerinin Çözümleri (Solving Systems of Linear Equations )  [pdf](/assets/pdf/firism_lineer_cebir_lds_çözümü.pdf)<br />
+&#8226; Matris Determinantı (Matrix Determinant)   [pdf](/assets/pdf/firism_lineer_cebir_determinant.pdf)<br />
+&#8226; Matris Tersi (Inverse of a Matrix) [pdf](/assets/pdf/firism_lineer_cebir_matris_tersi.pdf)<br />
+&#8226; Özdeğer - Özvektörler (Eigenvalues- Eigenvectors)  [pdf](/assets/pdf/firism_lineer_cebir_özdeğer_özvektör.pdf)<br />
 
 
 
