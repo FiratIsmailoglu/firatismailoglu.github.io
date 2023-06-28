@@ -10,16 +10,19 @@ category: work
 
 <h3>ders notları</h3>
 
-&#8226; Vektörler-1 (Vektör Operasyonları/Lineer Bağımlılık) (Vector Operations/Linerar Dependence)   [pdf](/assets/pdf/firism_lineer_cebir_vektörler_1.pdf)<br />
-&#8226; Vektörler-2 (Vektör Uzayları/Germe-Baz) (Vector Spaces/Spaning-Basis) [pdf](/assets/pdf/firism_lineer_cebir_vektörler_2.pdf)<br />
-&#8226; Vektörler-3 (İç Çarpım/Lineer Transformasyon) (Inner Product/Linear Transformation)   [pdf](/assets/pdf/firism_lineer_cebir_vektörler_3.pdf)<br />
-&#8226; Vektörler-4 (Ortogonal Vektörler/Cauchy – Schwarz Eşitsizliği)  (Orthogonal Vectors/ Cauchy – Schwarz Inequality) [pdf](/assets/pdf/firism_lineer_cebir_vektörler_4.pdf)<br />
-&#8226; Matrisler- 1 (Özel Matrisler/Matris-Vektör Çarpımı) (Special Matrices/Matrix-Vector Product) [pdf](/assets/pdf/firism_lineer_cebir_matrisler_1.pdf)<br />
-&#8226; Matrisler- 2 (Matris-Matris Çarpımı) (Matrix-Matrix Product)   [pdf](/assets/pdf/firism_lineer_cebir_matrisler_2.pdf)<br />
-&#8226; Lineer Denklem Sistemlerinin Çözümleri (Solving Systems of Linear Equations )  [pdf](/assets/pdf/firism_lineer_cebir_lds_çözümü.pdf)<br />
-&#8226; Matris Determinantı (Matrix Determinant)   [pdf](/assets/pdf/firism_lineer_cebir_determinant.pdf)<br />
-&#8226; Matris Tersi (Inverse of a Matrix) [pdf](/assets/pdf/firism_lineer_cebir_matris_tersi.pdf)<br />
-&#8226; Özdeğer - Özvektörler (Eigenvalues- Eigenvectors)  [pdf](/assets/pdf/firism_lineer_cebir_özdeğer_özvektör.pdf)<br />
+&#8226; Giriş ve Motivasyon (Introduction and Motivation)  [pdf](/assets/pdf/firism_otomata_amaç_genel_kavramlar.pdf)<br />
+&#8226; Sonlu Otomata-1(Finite Automata -1)  [pdf](/assets/pdf/firism_otomata_sonlu_otomata_1.pdf)<br />
+&#8226;  Sonlu Otomata-2 (Finite Automata -2)   [pdf](/assets/pdf/firism_otomata_sonlu_otomata_2.pdf)<br />
+&#8226; Düzenli İfadeler-1 (Regular Expressions-1) [pdf](/assets/pdf/firism_otomata_düzenli_ifadeler_1.pdf)<br />
+&#8226; Düzenli İfadeler-2 (Regular Expressions-2)  [pdf](/assets/pdf/firism_otomata_düzenli_ifadeler_2.pdf)<br />
+&#8226; İçerikten Bağımsız Diller-1 /Pumping Lemma (Context Free Languages-1)  [pdf](/assets/pdf/firism_otomata_pumping_lemma_içerikten_bağımsız_diller_1.pdf)<br />
+&#8226; İçerikten Bağımsız Diller-2 /Pushdown Automata (Context Free Languages-2)  [pdf](/assets/pdf/firism_otomata_pushdown_otomata_içerikten_bağımsız_diller_2.pdf)<br />
+&#8226; İçerikten Bağımsız Diller-3(Context Free Languages-3)   [pdf](/assets/pdf/firism_otomata_içerikten_bağımsız_diller_3.pdf)<br />
+&#8226; Turing Makinesi -1 (Turing Machine -1) [pdf](/assets/pdf/firism_otomata_turing_makinesi_1.pdf)<br />
+&#8226; Turing Makinesi -2 (Turing Machine -2)  [pdf](/assets/pdf/firism_otomata_turing_makinesi_2.pdf)<br />
+&#8226; Turing Makinesi -3 (Turing Machine -3)  [pdf](/assets/pdf/firism_otomata_turing_makinesi_3.pdf)<br />
+
+
 
 <h3>matlab notları ve çalışma soruları</h3>
 
