@@ -17,7 +17,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-       {% if project.course -%}
+       {% if project.course==1 -%}
       {% include projects_horizontal.html %}
         {%- endif -%}
     {%- endfor %}
@@ -26,7 +26,7 @@ horizontal: false
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-     {% if project.course -%}
+     {% if project.course==1 -%}
       {% include projects.html %}
      {%- endif -%}
     {%- endfor %}
