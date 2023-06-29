@@ -1,6 +1,6 @@
 ---
 layout: page
-title: naturallanguage processing
+title: natural language processing
 description: my reserach on nlp will be placed here
 img: assets/img/nlp.jpg
 importance: 1
