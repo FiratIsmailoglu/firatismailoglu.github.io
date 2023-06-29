@@ -23,6 +23,7 @@ category: work
   
 
 <h3>python notları ve  örnek kodlar </h3>
+ &#8226; Python Notları : [pdf](/assets/pdf/firism_python_notes.pdf) <br />
  &#8226; Pandas Notları : [pdf](/assets/pdf/Pandas Notlari.pdf) <br />
   &#8226; Numpy Notları : [pdf](/assets/pdf/Numpy Notları.pdf) <br />
   &#8226; Veri Temizleme : [py](/assets/pdf/firism_veri_temizleme.py) <br />
