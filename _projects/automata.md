@@ -24,22 +24,23 @@ category: work
 
 
 
-<h3>matlab notları ve çalışma soruları</h3>
+<h3>python notları ve çalışma soruları</h3>
+&#8226; Python ile Düzenli İfadeler-1 [pdf](/assets/pdf/firism_python_ile_düzenli_ifadeler_1.pdf)<br />
+&#8226; Python ile Düzenli İfadeler-2 [pdf](/assets/pdf/firism_python_ile_düzenli_ifadeler_2.pdf)<br />
+&#8226; Sonlu Otomata Çalışma Soruları ve Çözümler [pdf](/assets/pdf/firism_sonlu_otomata_sorular_ve_cevaplar.pdf)<br />
+&#8226; İçerikten Bağımsız Diller Çalışma Soruları ve Çözümler-1 [pdf](/assets/pdf/firism_içerikten_bagimsiz_diller_1_sorular_ve_cevaplar.pdf)<br />
+&#8226; İçerikten Bağımsız Diller Çalışma Soruları ve Çözümler-2 [pdf](/assets/pdf/firism_içerikten_bagimsiz_diller_2_sorular_ve_cevaplar.pdf)<br />
+&#8226; Turing Makinesi Çalışma Soruları ve Çözümler-1 [pdf](/assets/pdf/firism_turing_makinesi_sorular_ve_cevaplar.pdf)<br />
 
-&#8226; Temel Matlab Komutları [pdf](/assets/pdf/firism_matlab_basics.pdf)<br />
-&#8226; Matlab Çalışma Soruları-1[pdf](/assets/pdf/Matab_Octave Calisma Sorulari 1.pdf)<br />
-&#8226; Matlab Çalışma Soruları-1 Çözümler[pdf](/assets/pdf/Çalışma Soruları -1 Çözümler.pdf)<br />
-&#8226; Matlab Çalışma Soruları-2[pdf](/assets/pdf/Matlab - Octave Çalışma Sorulari 2.pdf)<br />
-&#8226; Matlab Çalışma Soruları-3[pdf](/assets/pdf/Matab_Octave Calisma Sorulari 3.pdf)<br />
 
   
 
 <h3>örnek sınav soruları</h3>
- &#8226; Vize Soruları-1: [pdf](/assets/pdf/firism_lineer_cebir_vize_1.pdf) <br />
-  &#8226; Vize Soruları-2 : [pdf](/assets/pdf/firism_lineer_cebir_vize_1.pdf) <br />
-   &#8226; Final Soruları (Klasik): [pdf](/assets/pdf/firism_lineer_cebir_final_klasik.pdf) <br />
-  &#8226; Final Soruları (Test): [pdf](/assets/pdf/firism_lineer_cebir_final_test.pdf) <br />
-   &#8226; Bütünleme Soruları: [pdf](/assets/pdf/firism_lineer_cebir_bütünleme_sorular_ve_cevaplar.pdf) <br />
+ &#8226; Vize Soruları ve Çözümler-1: [pdf](/assets/pdf/firism_vize_sorulari_1.pdf) <br />
+  &#8226; Vize Soruları ve Çözümler-2: [pdf](/assets/pdf/firism_vize_sorulari_2_cevaplar.pdf) <br />
+   &#8226; Final Soruları ve Çözümler: [pdf](/assets/pdf/firism_final_sorulari_cevaplar.pdf) <br />
+  &#8226; Bütünleme Soruları ve Çözümler): [pdf](/assets/pdf/firism_bütünleme_sorulari_cevaplar.pdf) <br />
+
 
 
   
